@@ -32,5 +32,10 @@
   		<mapper class="com.zhy.mapper.UserMapper"/>
   		<mapper class="com.zhy.mapper.CardMapper"/>
   		<mapper class="com.zhy.mapper.PersonMapper"/>
+  		<mapper class="com.zhy.mapper.StudentMapper"/>
+  		<mapper class="com.zhy.mapper.ClazzMapper"/>
+  		<mapper class="com.zhy.mapper.OrderMapper"/>
+  		<mapper class="com.zhy.mapper.CustomerMapper"/>
+  		<mapper class="com.zhy.mapper.ArticleMapper"/>
   	</mappers>
   </configuration>
